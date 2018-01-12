@@ -1,0 +1,9 @@
+{
+  "name": "appicon",
+  "bin": {
+    "appicon": "index.js"
+  },
+  "dependencies": {
+    "jimp": "^0.2.28"
+  }
+}
