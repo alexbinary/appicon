@@ -4,6 +4,6 @@
     "appicon": "index.js"
   },
   "dependencies": {
-    "jimp": "^0.2.28"
+    "jimp": "^0.6.0"
   }
 }
